@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Ali in Drafts</title>
+  <meta name="description" content="Reading notes and highlights captured in markdown." />
+  
+  <style>
+    :root {
+      --ink: #1f2933;
+      --stone: #eaecee;
+      --paper: #fdfdfc;
+      --accent: #e76f51;
+      --accent-2: #2a9d8f;
+      --muted: #6b7280;
+      --shadow: 0 14px 40px rgba(31, 41, 51, 0.1);
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      background: radial-gradient(circle at 20% 20%, #f3f3ff 0, transparent 25%), var(--paper);
+      color: var(--ink);
+      font-family: "Archivo", "Helvetica Neue", Arial, sans-serif;
+      line-height: 1.7;
+      padding: 32px 20px 80px;
+    }
+    a { color: var(--accent); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    header { max-width: 880px; margin: 0 auto 32px; padding-bottom: 16px; border-bottom: 1px solid var(--stone); }
+    .logo {
+      font-size: 26px;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      display: inline-flex;
+      align-items: center;
+      gap: 12px;
+    }
+    .logo span {
+      display: inline-flex;
+      width: 40px;
+      height: 40px;
+      border-radius: 12px;
+      background: linear-gradient(135deg, var(--accent), var(--accent-2));
+      box-shadow: var(--shadow);
+      align-items: center;
+      justify-content: center;
+      color: white;
+      font-weight: 800;
+    }
+    main { max-width: 880px; margin: 0 auto; background: white; border-radius: 18px; padding: 28px; box-shadow: var(--shadow); }
+    footer { max-width: 880px; margin: 18px auto 0; color: var(--muted); font-size: 14px; text-align: right; }
+    .post-hero {
+      display: grid;
+      grid-template-columns: 180px 1fr;
+      gap: 18px;
+      align-items: center;
+      margin-bottom: 22px;
+    }
+    .cover {
+      width: 100%;
+      max-width: 200px;
+      border-radius: 12px;
+      box-shadow: var(--shadow);
+      object-fit: cover;
+    }
+    .post-card {
+      display: grid;
+      grid-template-columns: 1fr auto;
+      gap: 8px;
+      padding: 18px 16px;
+      border-radius: 14px;
+      border: 1px solid var(--stone);
+      transition: transform 120ms ease, box-shadow 120ms ease, border 120ms ease;
+      margin-bottom: 12px;
+    }
+    .post-card:hover {
+      transform: translateY(-2px);
+      border-color: rgba(231, 111, 81, 0.4);
+      box-shadow: var(--shadow);
+    }
+    .post-card h2 { margin: 0; font-size: 22px; }
+    .post-card time { color: var(--muted); font-size: 14px; }
+    .post-card p { margin: 4px 0 0; color: #3f4a54; }
+    article h1 { margin-top: 0; font-size: 32px; }
+    article h2 { margin-top: 28px; }
+    article pre { background: #0b1726; color: #f4f7fb; padding: 14px; border-radius: 10px; overflow-x: auto; }
+    article code { background: #f5f7fa; padding: 2px 5px; border-radius: 6px; font-size: 0.95em; }
+    article ul { padding-left: 18px; }
+    .meta { color: var(--muted); margin: 0 0 16px; }
+    .rating { display: inline-flex; align-items: center; gap: 6px; font-weight: 700; color: #f59e0b; }
+    .rating .stars { letter-spacing: 2px; }
+    .rating .value { color: var(--muted); font-weight: 600; }
+    nav a { margin-right: 10px; font-weight: 600; }
+    @media (max-width: 640px) {
+      main { padding: 20px; }
+      .post-card { grid-template-columns: 1fr; }
+      .post-hero { grid-template-columns: 1fr; }
+      .cover { max-width: 100%; justify-self: start; }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="logo"><span>ag</span>Ali in Drafts</div>
+    
+  </header>
+  <main>
+    <article>
+    <p class="meta">A space for drafts, doubts, and ideas that aren’t done yet</p>
+    <article class="post-card">
+        <div>
+          <h2><a href="posts/rhythm-of-war/index.html">Rhythm of War</a></h2>
+          <p>One-line hook for the review.</p>
+          <div class="rating"><span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span><span class="value">4/5</span></div>
+        </div>
+        <time>Jan 5, 2026</time>
+      </article>
+<article class="post-card">
+        <div>
+          <h2><a href="posts/welcome-to-ali-in-drafts/index.html">Welcome to Ali in Drafts</a></h2>
+          <p>My own little pretentious</p>
+          
+        </div>
+        <time>Jan 4, 2025</time>
+      </article>
+  </article>
+  </main>
+</body>
+</html>
