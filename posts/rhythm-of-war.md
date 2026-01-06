@@ -1,7 +1,7 @@
 ---
 title: Rhythm of War
 date: 2026-01-06
-summary: One-line hook for the review.
+summary: A great storming book.
 cover: https://books.google.com/books/content?id=QCPBDwAAQBAJ&printsec=frontcover&img=1&zoom=1
 rating: 4
 tags: review, book
