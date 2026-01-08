@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Ali in Drafts</title>
     <link></link>
     <description>Reading notes and highlights captured in markdown.</description>
-    <lastBuildDate>Thu, 08 Jan 2026 15:16:08 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Jan 2026 15:21:42 GMT</lastBuildDate>
     <item>
 <title>Rhythm of War</title>
 <link>posts/rhythm-of-war/index.html</link>
 <guid>posts/rhythm-of-war/index.html</guid>
 <description>A great storming book.</description>
+<content:encoded><![CDATA[<h2>Why I Read It</h2>
+<p>I read the previous Stormlight Archive books and novellas. This was next in the list!</p>
+<h2>Review</h2>
+<p>Solid fantasy with strong character development, especially for Shallan and Taravangian. The climax was a bit underwhelming, particularly compared to previous books. Overall, it feels like classic Sanderson.</p>]]></content:encoded>
 <pubDate>Tue, 06 Jan 2026 00:00:00 GMT</pubDate>
 </item>
 <item>
@@ -17,6 +21,7 @@
 <link>posts/welcome-to-ali-in-drafts/index.html</link>
 <guid>posts/welcome-to-ali-in-drafts/index.html</guid>
 <description>My own little pretentious</description>
+<content:encoded><![CDATA[<p>I wanted a small and low-friction space to collect notes about the books I'm reading and other personal thoughts.</p>]]></content:encoded>
 <pubDate>Sun, 05 Jan 2025 00:00:00 GMT</pubDate>
 </item>
   </channel>

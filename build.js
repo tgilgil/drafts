@@ -435,13 +435,14 @@ function renderRss(posts) {
       `<link>${escapeXml(link)}</link>`,
       `<guid>${escapeXml(link)}</guid>`,
       description ? `<description>${escapeXml(description)}</description>` : '',
+      `<content:encoded><![CDATA[${post.html}]]></content:encoded>`,
       pubDate ? `<pubDate>${pubDate}</pubDate>` : '',
       '</item>',
     ].filter(Boolean).join('\n');
   }).join('\n');
 
   return `<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>${escapeXml(SITE_TITLE)}</title>
     <link>${escapeXml(baseUrl)}</link>
