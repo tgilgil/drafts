@@ -28,6 +28,8 @@ jobs:
           node-version: "20"
 
       - name: Build site
+        env:
+          SITE_URL: https://aligilgil.com
         run: node build.js
 
       - name: Configure Pages
