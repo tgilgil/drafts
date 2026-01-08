@@ -40,6 +40,7 @@ A lightweight, markdown-first blog for short reflections on books. Add a markdow
 - Posts are sorted by `date` (newest first); if no date is given, they fall back to alphabetical order by title.
 - `slug` can be added to the front matter to override the URL-friendly path derived from `title`.
 - Add `cover: https://...` to show a book cover image on a post, and `rating: 4.5` (0–5, halves ok) to render a star rating.
+- An RSS feed is generated at `dist/rss.xml`. Set `SITE_URL` when building to control absolute links in the feed.
 
 ## Scaffold a new book review
 

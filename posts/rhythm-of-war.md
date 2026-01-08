@@ -7,7 +7,7 @@ rating: 4
 tags: review, book
 ---
 
-## Snapshot
+## Why I Read It
 I read the previous Stormlight Archive books and novellas. This was next in the list!
 
 ## Review

@@ -46,19 +46,9 @@ rating: ${rating || '4'}
 tags: review, book
 ---
 
-## Snapshot
-- Why I picked it up:
-- One-line takeaway:
+## Why I Read It
 
 ## Thoughts
-- What surprised me:
-- Passages worth keeping:
-- Ideas I might try:
-
-## Review
-- What worked:
-- What didn’t land:
-- Who should read it:
 `;
 
   fs.writeFileSync(filepath, contents, 'utf8');

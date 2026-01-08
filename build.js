@@ -6,6 +6,8 @@ const POSTS_DIR = path.join(__dirname, 'posts');
 const DIST_DIR = path.join(__dirname, 'dist');
 const POSTS_DIST = path.join(DIST_DIR, 'posts');
 const SITE_TITLE = 'Ali in Drafts';
+const SITE_URL = (process.env.SITE_URL || '').replace(/\/+$/, '');
+const FEED_PATH = 'rss.xml';
 const MAX_RATING = 5;
 
 function escapeHtml(value) {
@@ -15,6 +17,10 @@ function escapeHtml(value) {
     .replace(/>/g, '&gt;')
     .replace(/"/g, '&quot;')
     .replace(/'/g, '&#39;');
+}
+
+function escapeXml(value) {
+  return escapeHtml(value);
 }
 
 function inlineMarkdown(text) {
@@ -214,7 +220,22 @@ function renderStars(rating) {
   return `${star.repeat(full)}${half ? halfStar : ''}${emptyStar.repeat(empty)}`;
 }
 
+function feedUrl() {
+  return FEED_PATH;
+}
+
+function feedAbsoluteUrl() {
+  if (!SITE_URL) return '';
+  return `${SITE_URL}/${FEED_PATH}`;
+}
+
 function renderLayout({ title, content, description = '', extraMeta = '', includeHomeLink = false }) {
+  const rssHref = feedAbsoluteUrl() || feedUrl();
+  const rssLink = `<link rel="alternate" type="application/rss+xml" title="${SITE_TITLE}" href="${rssHref}" />`;
+  const navLinks = [
+    includeHomeLink ? '<a href="../../index.html">Home</a>' : '',
+  ].filter(Boolean).join('');
+  const footer = `<footer><a href="${feedUrl()}">RSS</a></footer>`;
   return `<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -222,6 +243,7 @@ function renderLayout({ title, content, description = '', extraMeta = '', includ
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>${title}</title>
   <meta name="description" content="${escapeHtml(description)}" />
+  ${rssLink}
   ${extraMeta}
   <style>
     :root {
@@ -320,11 +342,12 @@ function renderLayout({ title, content, description = '', extraMeta = '', includ
 <body>
   <header>
     <div class="logo"><span>ag</span>${SITE_TITLE}</div>
-    ${includeHomeLink ? '<nav><a href="../../index.html">Home</a></nav>' : ''}
+    <nav>${navLinks}</nav>
   </header>
   <main>
     ${content}
   </main>
+  ${footer}
 </body>
 </html>`;
 }
@@ -390,6 +413,43 @@ function formatDate(value) {
   const date = new Date(value);
   if (Number.isNaN(date.getTime())) return '';
   return date.toLocaleDateString('en', { month: 'short', day: 'numeric', year: 'numeric' });
+}
+
+function toRssDate(value) {
+  if (!value) return '';
+  const date = new Date(value);
+  if (Number.isNaN(date.getTime())) return '';
+  return date.toUTCString();
+}
+
+function renderRss(posts) {
+  const lastBuild = new Date().toUTCString();
+  const baseUrl = SITE_URL;
+  const items = posts.map((post) => {
+    const link = baseUrl ? `${baseUrl}/posts/${post.slug}/index.html` : `posts/${post.slug}/index.html`;
+    const pubDate = toRssDate(post.date);
+    const description = post.summary || '';
+    return [
+      '<item>',
+      `<title>${escapeXml(post.title)}</title>`,
+      `<link>${escapeXml(link)}</link>`,
+      `<guid>${escapeXml(link)}</guid>`,
+      description ? `<description>${escapeXml(description)}</description>` : '',
+      pubDate ? `<pubDate>${pubDate}</pubDate>` : '',
+      '</item>',
+    ].filter(Boolean).join('\n');
+  }).join('\n');
+
+  return `<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>${escapeXml(SITE_TITLE)}</title>
+    <link>${escapeXml(baseUrl)}</link>
+    <description>${escapeXml('Reading notes and highlights captured in markdown.')}</description>
+    <lastBuildDate>${lastBuild}</lastBuildDate>
+    ${items}
+  </channel>
+</rss>`;
 }
 
 function ensureDir(dir) {
@@ -464,6 +524,7 @@ async function build() {
 
   const indexHtml = renderIndex(posts);
   fs.writeFileSync(path.join(DIST_DIR, 'index.html'), indexHtml, 'utf8');
+  fs.writeFileSync(path.join(DIST_DIR, FEED_PATH), renderRss(posts), 'utf8');
 
   posts.forEach((post) => {
     const postDir = path.join(POSTS_DIST, post.slug);
