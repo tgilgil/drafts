@@ -1,0 +1,1006 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Francos de Montréal 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Francos de Montréal 2026
+X-WR-TIMEZONE:America/Toronto
+BEGIN:VEVENT
+UID:francos2026-0@francosmontreal.com
+DTSTART:20260612T000000Z
+DTEND:20260612T020000Z
+SUMMARY:Orelsan@Francos
+LOCATION:Bell Centre — 1909 Canadiens-de-Montréal Ave.
+DESCRIPTION:Location: Bell Centre | 1909 Canadiens-de-Montréal Ave.
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-1@francosmontreal.com
+DTSTART:20260612T233000Z
+DTEND:20260613T013000Z
+SUMMARY:Laurent Voulzy@Francos
+LOCATION:Théâtre Maisonneuve — Place des Arts — 175 Ste. Catherine St. West
+ 
+DESCRIPTION:Location: Théâtre Maisonneuve — Place des Arts | 175 Ste. Cathe
+ rine St. West
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-2@francosmontreal.com
+DTSTART:20260614T000000Z
+DTEND:20260614T020000Z
+SUMMARY:Ingrid St-Pierre@Francos
+LOCATION:Théâtre Maisonneuve — Place des Arts — 175 Ste. Catherine St. West
+ 
+DESCRIPTION:Location: Théâtre Maisonneuve — Place des Arts | 175 Ste. Cathe
+ rine St. West
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-3@francosmontreal.com
+DTSTART:20260614T230000Z
+DTEND:20260615T010000Z
+SUMMARY:Emilie-Claire Barlow@Francos
+LOCATION:Théâtre Maisonneuve — Place des Arts — 175 Ste. Catherine St. West
+ 
+DESCRIPTION:Location: Théâtre Maisonneuve — Place des Arts | 175 Ste. Cathe
+ rine St. West
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-4@francosmontreal.com
+DTSTART:20260619T000000Z
+DTEND:20260619T020000Z
+SUMMARY:Julien Clerc@Francos
+LOCATION:Salle Wilfrid-Pelletier — Place des Arts — 175 Ste. Catherine St. 
+ West
+DESCRIPTION:Location: Salle Wilfrid-Pelletier — Place des Arts | 175 Ste. C
+ atherine St. West
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-5@francosmontreal.com
+DTSTART:20260619T000000Z
+DTEND:20260619T020000Z
+SUMMARY:Pierre Lapointe@Francos
+LOCATION:Maison symphonique de Montréal — 1600 St. Urbain St.
+DESCRIPTION:Location: Maison symphonique de Montréal | 1600 St. Urbain St.
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-6@francosmontreal.com
+DTSTART:20260620T000000Z
+DTEND:20260620T020000Z
+SUMMARY:Cœur de Pirate@Francos
+LOCATION:Salle Wilfrid-Pelletier — Place des Arts — 175 Ste. Catherine St. 
+ West
+DESCRIPTION:Location: Salle Wilfrid-Pelletier — Place des Arts | 175 Ste. C
+ atherine St. West
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-7@francosmontreal.com
+DTSTART:20260620T000000Z
+DTEND:20260620T020000Z
+SUMMARY:Pierre Lapointe@Francos
+LOCATION:Maison symphonique de Montréal — 1600 St. Urbain St.
+DESCRIPTION:Location: Maison symphonique de Montréal | 1600 St. Urbain St.
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-8@francosmontreal.com
+DTSTART:20260613T010000Z
+DTEND:20260613T030000Z
+SUMMARY:Kassav'@Francos
+LOCATION:Scène Rogers — Place des Festivals
+DESCRIPTION:Location: Scène Rogers | Place des Festivals | (Free admission)
+ 
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-9@francosmontreal.com
+DTSTART:20260614T010000Z
+DTEND:20260614T030000Z
+SUMMARY:Ariane Roy@Francos
+LOCATION:Scène Rogers — Place des Festivals
+DESCRIPTION:Location: Scène Rogers | Place des Festivals | (Free admission)
+ 
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-10@francosmontreal.com
+DTSTART:20260615T010000Z
+DTEND:20260615T030000Z
+SUMMARY:Pour la suite du Dôme de Jean Leloup@Francos
+LOCATION:Scène Rogers — Place des Festivals
+DESCRIPTION:Location: Scène Rogers | Place des Festivals | (Free admission)
+ 
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-11@francosmontreal.com
+DTSTART:20260618T010000Z
+DTEND:20260618T030000Z
+SUMMARY:Gab Bouchard@Francos
+LOCATION:Scène Rogers — Place des Festivals
+DESCRIPTION:Location: Scène Rogers | Place des Festivals | (Free admission)
+ 
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-12@francosmontreal.com
+DTSTART:20260619T003000Z
+DTEND:20260619T023000Z
+SUMMARY:KORIASS@Francos
+LOCATION:Scène Rogers — Place des Festivals
+DESCRIPTION:Location: Scène Rogers | Place des Festivals | (Free admission)
+ 
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-13@francosmontreal.com
+DTSTART:20260619T020000Z
+DTEND:20260619T040000Z
+SUMMARY:Loud@Francos
+LOCATION:Scène Rogers — Place des Festivals
+DESCRIPTION:Location: Scène Rogers | Place des Festivals | (Free admission)
+ 
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-14@francosmontreal.com
+DTSTART:20260620T010000Z
+DTEND:20260620T030000Z
+SUMMARY:Klô Pelgag @Francos
+LOCATION:Scène Rogers — Place des Festivals
+DESCRIPTION:Location: Scène Rogers | Place des Festivals | (Free admission)
+ 
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-15@francosmontreal.com
+DTSTART:20260621T010000Z
+DTEND:20260621T030000Z
+SUMMARY:disiz@Francos
+LOCATION:Scène Rogers — Place des Festivals
+DESCRIPTION:Location: Scène Rogers | Place des Festivals | (Free admission)
+ 
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-16@francosmontreal.com
+DTSTART:20260612T230000Z
+DTEND:20260613T010000Z
+SUMMARY:Dee End@Francos
+LOCATION:Scène Rogers — Place des Festivals
+DESCRIPTION:Location: Scène Rogers | Place des Festivals | (Free admission)
+ 
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-17@francosmontreal.com
+DTSTART:20260612T230000Z
+DTEND:20260613T010000Z
+SUMMARY:Émile Bilodeau @Francos
+LOCATION:Cinquième Salle — Place des Arts — 175 Ste. Catherine St. West
+ 
+DESCRIPTION:Location: Cinquième Salle — Place des Arts | 175 Ste. Catherine
+  St. West
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-18@francosmontreal.com
+DTSTART:20260613T000000Z
+DTEND:20260613T020000Z
+SUMMARY:Lou-Adriane Cassidy@Francos
+LOCATION:MTELUS — 59 Ste. Catherine St. East
+DESCRIPTION:Location: MTELUS | 59 Ste. Catherine St. East
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-19@francosmontreal.com
+DTSTART:20260613T000000Z
+DTEND:20260613T020000Z
+SUMMARY:Marie-Mai@Francos
+LOCATION:Loto-Québec Stage — Le Parterre
+DESCRIPTION:Location: Loto-Québec Stage | Le Parterre | (Free admission)
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-20@francosmontreal.com
+DTSTART:20260613T220000Z
+DTEND:20260614T000000Z
+SUMMARY:Mahéja@Francos
+LOCATION:Club Soda — 1225 St. Laurent Blvd.
+DESCRIPTION:Location: Club Soda | 1225 St. Laurent Blvd.
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-21@francosmontreal.com
+DTSTART:20260613T230000Z
+DTEND:20260614T010000Z
+SUMMARY:Bobby Bazini@Francos
+LOCATION:Cinquième Salle — Place des Arts — 175 Ste. Catherine St. West
+ 
+DESCRIPTION:Location: Cinquième Salle — Place des Arts | 175 Ste. Catherine
+  St. West
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-22@francosmontreal.com
+DTSTART:20260613T230000Z
+DTEND:20260614T010000Z
+SUMMARY:Zélie@Francos
+LOCATION:Scène Rogers — Place des Festivals
+DESCRIPTION:Location: Scène Rogers | Place des Festivals | (Free admission)
+ 
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-23@francosmontreal.com
+DTSTART:20260614T000000Z
+DTEND:20260614T020000Z
+SUMMARY:Groovy Aardvark@Francos
+LOCATION:Loto-Québec Stage — Le Parterre
+DESCRIPTION:Location: Loto-Québec Stage | Le Parterre | (Free admission)
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-24@francosmontreal.com
+DTSTART:20260614T023000Z
+DTEND:20260614T043000Z
+SUMMARY:Kinji00@Francos
+LOCATION:Scène Desjardins — L'Esplanade de la Place des Arts
+DESCRIPTION:Location: Scène Desjardins | L'Esplanade de la Place des Arts |
+  (Free admission)
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-25@francosmontreal.com
+DTSTART:20260614T230000Z
+DTEND:20260615T010000Z
+SUMMARY:Antoine Corriveau@Francos
+LOCATION:Scène Rogers — Place des Festivals
+DESCRIPTION:Location: Scène Rogers | Place des Festivals | (Free admission)
+ 
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-26@francosmontreal.com
+DTSTART:20260615T000000Z
+DTEND:20260615T020000Z
+SUMMARY:Danyl@Francos
+LOCATION:Loto-Québec Stage — Le Parterre
+DESCRIPTION:Location: Loto-Québec Stage | Le Parterre | (Free admission)
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-27@francosmontreal.com
+DTSTART:20260615T000000Z
+DTEND:20260615T020000Z
+SUMMARY:Étienne Coppée@Francos
+LOCATION:Théâtre Jean-Duceppe — 175 Sainte-Catherine Street
+DESCRIPTION:Location: Théâtre Jean-Duceppe | 175 Sainte-Catherine Street
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-28@francosmontreal.com
+DTSTART:20260615T000000Z
+DTEND:20260615T020000Z
+SUMMARY:Trinix@Francos
+LOCATION:Club Soda — 1225 St. Laurent Blvd.
+DESCRIPTION:Location: Club Soda | 1225 St. Laurent Blvd.
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-29@francosmontreal.com
+DTSTART:20260615T023000Z
+DTEND:20260615T043000Z
+SUMMARY:TJ DTS @Francos
+LOCATION:Scène Desjardins — L'Esplanade de la Place des Arts
+DESCRIPTION:Location: Scène Desjardins | L'Esplanade de la Place des Arts |
+  (Free admission)
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-30@francosmontreal.com
+DTSTART:20260616T000000Z
+DTEND:20260616T020000Z
+SUMMARY:Étienne Coppée@Francos
+LOCATION:Théâtre Jean-Duceppe — 175 Sainte-Catherine Street
+DESCRIPTION:Location: Théâtre Jean-Duceppe | 175 Sainte-Catherine Street
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-31@francosmontreal.com
+DTSTART:20260617T000000Z
+DTEND:20260617T020000Z
+SUMMARY:Ino Casablanca@Francos
+LOCATION:Club Soda — 1225 St. Laurent Blvd.
+DESCRIPTION:Location: Club Soda | 1225 St. Laurent Blvd.
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-32@francosmontreal.com
+DTSTART:20260617T230000Z
+DTEND:20260618T010000Z
+SUMMARY:Catherine Leduc@Francos
+LOCATION:Scène Rogers — Place des Festivals
+DESCRIPTION:Location: Scène Rogers | Place des Festivals | (Free admission)
+ 
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-33@francosmontreal.com
+DTSTART:20260618T000000Z
+DTEND:20260618T020000Z
+SUMMARY:Bekar@Francos
+LOCATION:Club Soda — 1225 St. Laurent Blvd.
+DESCRIPTION:Location: Club Soda | 1225 St. Laurent Blvd.
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-34@francosmontreal.com
+DTSTART:20260618T000000Z
+DTEND:20260618T020000Z
+SUMMARY:La Bottine Souriante@Francos
+LOCATION:Loto-Québec Stage — Le Parterre
+DESCRIPTION:Location: Loto-Québec Stage | Le Parterre | (Free admission)
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-35@francosmontreal.com
+DTSTART:20260618T000000Z
+DTEND:20260618T020000Z
+SUMMARY:Lorie @Francos
+LOCATION:MTELUS — 59 Ste. Catherine St. East
+DESCRIPTION:Location: MTELUS | 59 Ste. Catherine St. East
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-36@francosmontreal.com
+DTSTART:20260618T000000Z
+DTEND:20260618T020000Z
+SUMMARY:Marie-Pierre Arthur@Francos
+LOCATION:Les Foufounes Electriques — 87 St Catherine St E
+DESCRIPTION:Location: Les Foufounes Electriques | 87 St Catherine St E
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-37@francosmontreal.com
+DTSTART:20260618T230000Z
+DTEND:20260619T010000Z
+SUMMARY:Maude Audet@Francos
+LOCATION:Cinquième Salle — Place des Arts — 175 Ste. Catherine St. West
+ 
+DESCRIPTION:Location: Cinquième Salle — Place des Arts | 175 Ste. Catherine
+  St. West
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-38@francosmontreal.com
+DTSTART:20260618T230000Z
+DTEND:20260619T010000Z
+SUMMARY:Parazar@Francos
+LOCATION:Scène Rogers — Place des Festivals
+DESCRIPTION:Location: Scène Rogers | Place des Festivals | (Free admission)
+ 
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-39@francosmontreal.com
+DTSTART:20260619T000000Z
+DTEND:20260619T020000Z
+SUMMARY:Choses Sauvages@Francos
+LOCATION:Loto-Québec Stage — Le Parterre
+DESCRIPTION:Location: Loto-Québec Stage | Le Parterre | (Free admission)
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-40@francosmontreal.com
+DTSTART:20260619T000000Z
+DTEND:20260619T020000Z
+SUMMARY:FUUDGE - Lancement d'album@Francos
+LOCATION:Les Foufounes Electriques — 87 St Catherine St E
+DESCRIPTION:Location: Les Foufounes Electriques | 87 St Catherine St E
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-41@francosmontreal.com
+DTSTART:20260619T000000Z
+DTEND:20260619T020000Z
+SUMMARY:ISHA & Limsa d'Aulnay@Francos
+LOCATION:Club Soda — 1225 St. Laurent Blvd.
+DESCRIPTION:Location: Club Soda | 1225 St. Laurent Blvd.
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-42@francosmontreal.com
+DTSTART:20260619T000000Z
+DTEND:20260619T020000Z
+SUMMARY:Lorie @Francos
+LOCATION:MTELUS — 59 Ste. Catherine St. East
+DESCRIPTION:Location: MTELUS | 59 Ste. Catherine St. East
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-43@francosmontreal.com
+DTSTART:20260619T030000Z
+DTEND:20260619T050000Z
+SUMMARY:Rymz@Francos
+LOCATION:Scène Desjardins — L'Esplanade de la Place des Arts
+DESCRIPTION:Location: Scène Desjardins | L'Esplanade de la Place des Arts |
+  (Free admission)
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-44@francosmontreal.com
+DTSTART:20260619T230000Z
+DTEND:20260620T010000Z
+SUMMARY:Héron@Francos
+LOCATION:Cinquième Salle — Place des Arts — 175 Ste. Catherine St. West
+ 
+DESCRIPTION:Location: Cinquième Salle — Place des Arts | 175 Ste. Catherine
+  St. West
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-45@francosmontreal.com
+DTSTART:20260619T230000Z
+DTEND:20260620T010000Z
+SUMMARY:Marie Céleste@Francos
+LOCATION:Scène Rogers — Place des Festivals
+DESCRIPTION:Location: Scène Rogers | Place des Festivals | (Free admission)
+ 
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-46@francosmontreal.com
+DTSTART:20260619T233000Z
+DTEND:20260620T013000Z
+SUMMARY:Georgio@Francos
+LOCATION:Club Soda — 1225 St. Laurent Blvd.
+DESCRIPTION:Location: Club Soda | 1225 St. Laurent Blvd.
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-47@francosmontreal.com
+DTSTART:20260619T233000Z
+DTEND:20260620T013000Z
+SUMMARY:Québec Redneck Bluegrass Project @Francos
+LOCATION:MTELUS — 59 Ste. Catherine St. East
+DESCRIPTION:Location: MTELUS | 59 Ste. Catherine St. East
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-48@francosmontreal.com
+DTSTART:20260620T000000Z
+DTEND:20260620T020000Z
+SUMMARY:Dead Obies@Francos
+LOCATION:Loto-Québec Stage — Le Parterre
+DESCRIPTION:Location: Loto-Québec Stage | Le Parterre | (Free admission)
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-49@francosmontreal.com
+DTSTART:20260620T000000Z
+DTEND:20260620T020000Z
+SUMMARY:Paul Piché@Francos
+LOCATION:Théâtre Jean-Duceppe — 175 Sainte-Catherine Street
+DESCRIPTION:Location: Théâtre Jean-Duceppe | 175 Sainte-Catherine Street
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-50@francosmontreal.com
+DTSTART:20260620T023000Z
+DTEND:20260620T043000Z
+SUMMARY:Mandyspie@Francos
+LOCATION:Scène Desjardins — L'Esplanade de la Place des Arts
+DESCRIPTION:Location: Scène Desjardins | L'Esplanade de la Place des Arts |
+  (Free admission)
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-51@francosmontreal.com
+DTSTART:20260620T230000Z
+DTEND:20260621T010000Z
+SUMMARY:Aupinard@Francos
+LOCATION:Scène Rogers — Place des Festivals
+DESCRIPTION:Location: Scène Rogers | Place des Festivals | (Free admission)
+ 
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-52@francosmontreal.com
+DTSTART:20260621T000000Z
+DTEND:20260621T020000Z
+SUMMARY:Ariane Moffatt@Francos
+LOCATION:Loto-Québec Stage — Le Parterre
+DESCRIPTION:Location: Loto-Québec Stage | Le Parterre | (Free admission)
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-53@francosmontreal.com
+DTSTART:20260621T000000Z
+DTEND:20260621T020000Z
+SUMMARY:Lost@Francos
+LOCATION:MTELUS — 59 Ste. Catherine St. East
+DESCRIPTION:Location: MTELUS | 59 Ste. Catherine St. East
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-54@francosmontreal.com
+DTSTART:20260621T000000Z
+DTEND:20260621T020000Z
+SUMMARY:Malaimé Soleil@Francos
+LOCATION:Club Soda — 1225 St. Laurent Blvd.
+DESCRIPTION:Location: Club Soda | 1225 St. Laurent Blvd.
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-55@francosmontreal.com
+DTSTART:20260621T023000Z
+DTEND:20260621T043000Z
+SUMMARY:LAF X OGB@Francos
+LOCATION:Scène Desjardins — L'Esplanade de la Place des Arts
+DESCRIPTION:Location: Scène Desjardins | L'Esplanade de la Place des Arts |
+  (Free admission)
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-56@francosmontreal.com
+DTSTART:20260612T220000Z
+DTEND:20260613T000000Z
+SUMMARY:Alexe@Francos
+LOCATION:Loto-Québec Stage — Le Parterre
+DESCRIPTION:Location: Loto-Québec Stage | Le Parterre | (Free admission)
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-57@francosmontreal.com
+DTSTART:20260612T230000Z
+DTEND:20260613T010000Z
+SUMMARY:Adib Alkhalidey@Francos
+LOCATION:Scène Spotify — Petit Parterre
+DESCRIPTION:Location: Scène Spotify | Petit Parterre | (Free admission)
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-58@francosmontreal.com
+DTSTART:20260613T000000Z
+DTEND:20260613T020000Z
+SUMMARY:Eman @Francos
+LOCATION:Scène Desjardins — L'Esplanade de la Place des Arts
+DESCRIPTION:Location: Scène Desjardins | L'Esplanade de la Place des Arts |
+  (Free admission)
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-59@francosmontreal.com
+DTSTART:20260613T013000Z
+DTEND:20260613T033000Z
+SUMMARY:Virginie B@Francos
+LOCATION:Scène Spotify — Petit Parterre
+DESCRIPTION:Location: Scène Spotify | Petit Parterre | (Free admission)
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-60@francosmontreal.com
+DTSTART:20260613T220000Z
+DTEND:20260614T000000Z
+SUMMARY:Grand Eugène@Francos
+LOCATION:Loto-Québec Stage — Le Parterre
+DESCRIPTION:Location: Loto-Québec Stage | Le Parterre | (Free admission)
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-61@francosmontreal.com
+DTSTART:20260613T230000Z
+DTEND:20260614T010000Z
+SUMMARY:Les Breastfeeders@Francos
+LOCATION:Scène Spotify — Petit Parterre
+DESCRIPTION:Location: Scène Spotify | Petit Parterre | (Free admission)
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-62@francosmontreal.com
+DTSTART:20260614T000000Z
+DTEND:20260614T020000Z
+SUMMARY:Piche@Francos
+LOCATION:Scène Desjardins — L'Esplanade de la Place des Arts
+DESCRIPTION:Location: Scène Desjardins | L'Esplanade de la Place des Arts |
+  (Free admission)
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-63@francosmontreal.com
+DTSTART:20260614T000000Z
+DTEND:20260614T020000Z
+SUMMARY:Statzz@Francos
+LOCATION:Le Studio TD — 305 Ste. Catherine St. West
+DESCRIPTION:Location: Le Studio TD | 305 Ste. Catherine St. West
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-64@francosmontreal.com
+DTSTART:20260614T013000Z
+DTEND:20260614T033000Z
+SUMMARY:Béton Armé@Francos
+LOCATION:Scène Spotify — Petit Parterre
+DESCRIPTION:Location: Scène Spotify | Petit Parterre | (Free admission)
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-65@francosmontreal.com
+DTSTART:20260614T220000Z
+DTEND:20260615T000000Z
+SUMMARY:Wamen@Francos
+LOCATION:Loto-Québec Stage — Le Parterre
+DESCRIPTION:Location: Loto-Québec Stage | Le Parterre | (Free admission)
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-66@francosmontreal.com
+DTSTART:20260614T230000Z
+DTEND:20260615T010000Z
+SUMMARY:Nawfal@Francos
+LOCATION:Scène Spotify — Petit Parterre
+DESCRIPTION:Location: Scène Spotify | Petit Parterre | (Free admission)
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-67@francosmontreal.com
+DTSTART:20260614T230000Z
+DTEND:20260615T010000Z
+SUMMARY:Thomas Fersen @Francos
+LOCATION:Le Studio TD — 305 Ste. Catherine St. West
+DESCRIPTION:Location: Le Studio TD | 305 Ste. Catherine St. West
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-68@francosmontreal.com
+DTSTART:20260615T000000Z
+DTEND:20260615T020000Z
+SUMMARY:Kamilou@Francos
+LOCATION:Scène Desjardins — L'Esplanade de la Place des Arts
+DESCRIPTION:Location: Scène Desjardins | L'Esplanade de la Place des Arts |
+  (Free admission)
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-69@francosmontreal.com
+DTSTART:20260615T013000Z
+DTEND:20260615T033000Z
+SUMMARY:Danyl@Francos
+LOCATION:Scène Spotify — Petit Parterre
+DESCRIPTION:Location: Scène Spotify | Petit Parterre | (Free admission)
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-70@francosmontreal.com
+DTSTART:20260617T180000Z
+DTEND:20260617T200000Z
+SUMMARY:Vitrine Rendez-vous Pros des Francos @Francos
+LOCATION:Le Studio TD — 305 Ste. Catherine St. West
+DESCRIPTION:Location: Le Studio TD | 305 Ste. Catherine St. West | (Free ad
+ mission)
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-71@francosmontreal.com
+DTSTART:20260617T220000Z
+DTEND:20260618T000000Z
+SUMMARY:Luiza@Francos
+LOCATION:Loto-Québec Stage — Le Parterre
+DESCRIPTION:Location: Loto-Québec Stage | Le Parterre | (Free admission)
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-72@francosmontreal.com
+DTSTART:20260617T230000Z
+DTEND:20260618T010000Z
+SUMMARY:La Traversée@Francos
+LOCATION:Scène Spotify — Petit Parterre
+DESCRIPTION:Location: Scène Spotify | Petit Parterre | (Free admission)
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-73@francosmontreal.com
+DTSTART:20260618T000000Z
+DTEND:20260618T020000Z
+SUMMARY:Juste Shani@Francos
+LOCATION:Scène Desjardins — L'Esplanade de la Place des Arts
+DESCRIPTION:Location: Scène Desjardins | L'Esplanade de la Place des Arts |
+  (Free admission)
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-74@francosmontreal.com
+DTSTART:20260618T013000Z
+DTEND:20260618T033000Z
+SUMMARY:Violett Pi@Francos
+LOCATION:Scène Spotify — Petit Parterre
+DESCRIPTION:Location: Scène Spotify | Petit Parterre | (Free admission)
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-75@francosmontreal.com
+DTSTART:20260618T220000Z
+DTEND:20260619T000000Z
+SUMMARY:NA$-T@Francos
+LOCATION:Scène Desjardins — L'Esplanade de la Place des Arts
+DESCRIPTION:Location: Scène Desjardins | L'Esplanade de la Place des Arts |
+  (Free admission)
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-76@francosmontreal.com
+DTSTART:20260618T220000Z
+DTEND:20260619T000000Z
+SUMMARY:Soleil Launière@Francos
+LOCATION:Loto-Québec Stage — Le Parterre
+DESCRIPTION:Location: Loto-Québec Stage | Le Parterre | (Free admission)
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-77@francosmontreal.com
+DTSTART:20260618T223500Z
+DTEND:20260619T003500Z
+SUMMARY:Franz Keloh @Francos
+LOCATION:Scène Desjardins — L'Esplanade de la Place des Arts
+DESCRIPTION:Location: Scène Desjardins | L'Esplanade de la Place des Arts |
+  (Free admission)
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-78@francosmontreal.com
+DTSTART:20260618T230000Z
+DTEND:20260619T010000Z
+SUMMARY:Baie@Francos
+LOCATION:Scène Spotify — Petit Parterre
+DESCRIPTION:Location: Scène Spotify | Petit Parterre | (Free admission)
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-79@francosmontreal.com
+DTSTART:20260618T230000Z
+DTEND:20260619T010000Z
+SUMMARY:Mentana@Francos
+LOCATION:Le Studio TD — 305 Ste. Catherine St. West
+DESCRIPTION:Location: Le Studio TD | 305 Ste. Catherine St. West
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-80@francosmontreal.com
+DTSTART:20260619T000000Z
+DTEND:20260619T020000Z
+SUMMARY:Guessmi@Francos
+LOCATION:Scène Desjardins — L'Esplanade de la Place des Arts
+DESCRIPTION:Location: Scène Desjardins | L'Esplanade de la Place des Arts |
+  (Free admission)
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-81@francosmontreal.com
+DTSTART:20260619T013000Z
+DTEND:20260619T033000Z
+SUMMARY:Bamby@Francos
+LOCATION:Scène Spotify — Petit Parterre
+DESCRIPTION:Location: Scène Spotify | Petit Parterre | (Free admission)
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-82@francosmontreal.com
+DTSTART:20260619T013000Z
+DTEND:20260619T033000Z
+SUMMARY:Lostboy Carlos@Francos
+LOCATION:Scène Desjardins — L'Esplanade de la Place des Arts
+DESCRIPTION:Location: Scène Desjardins | L'Esplanade de la Place des Arts |
+  (Free admission)
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-83@francosmontreal.com
+DTSTART:20260619T220000Z
+DTEND:20260620T000000Z
+SUMMARY:Marilyne Léonard@Francos
+LOCATION:Loto-Québec Stage — Le Parterre
+DESCRIPTION:Location: Loto-Québec Stage | Le Parterre | (Free admission)
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-84@francosmontreal.com
+DTSTART:20260619T230000Z
+DTEND:20260620T010000Z
+SUMMARY:Allô Fantôme@Francos
+LOCATION:Scène Spotify — Petit Parterre
+DESCRIPTION:Location: Scène Spotify | Petit Parterre | (Free admission)
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-85@francosmontreal.com
+DTSTART:20260620T000000Z
+DTEND:20260620T020000Z
+SUMMARY:Blynk@Francos
+LOCATION:Le Studio TD — 305 Ste. Catherine St. West
+DESCRIPTION:Location: Le Studio TD | 305 Ste. Catherine St. West
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-86@francosmontreal.com
+DTSTART:20260620T000000Z
+DTEND:20260620T020000Z
+SUMMARY:LinLin@Francos
+LOCATION:Scène Desjardins — L'Esplanade de la Place des Arts
+DESCRIPTION:Location: Scène Desjardins | L'Esplanade de la Place des Arts |
+  (Free admission)
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-87@francosmontreal.com
+DTSTART:20260620T013000Z
+DTEND:20260620T033000Z
+SUMMARY:Rowjay@Francos
+LOCATION:Scène Spotify — Petit Parterre
+DESCRIPTION:Location: Scène Spotify | Petit Parterre | (Free admission)
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-88@francosmontreal.com
+DTSTART:20260620T220000Z
+DTEND:20260621T000000Z
+SUMMARY:Vanille@Francos
+LOCATION:Loto-Québec Stage — Le Parterre
+DESCRIPTION:Location: Loto-Québec Stage | Le Parterre | (Free admission)
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-89@francosmontreal.com
+DTSTART:20260620T230000Z
+DTEND:20260621T010000Z
+SUMMARY:Requin Chagrin@Francos
+LOCATION:Scène Spotify — Petit Parterre
+DESCRIPTION:Location: Scène Spotify | Petit Parterre | (Free admission)
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-90@francosmontreal.com
+DTSTART:20260621T000000Z
+DTEND:20260621T020000Z
+SUMMARY:Yvnnis@Francos
+LOCATION:Scène Desjardins — L'Esplanade de la Place des Arts
+DESCRIPTION:Location: Scène Desjardins | L'Esplanade de la Place des Arts |
+  (Free admission)
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-91@francosmontreal.com
+DTSTART:20260621T013000Z
+DTEND:20260621T033000Z
+SUMMARY:Bibi Club@Francos
+LOCATION:Scène Spotify — Petit Parterre
+DESCRIPTION:Location: Scène Spotify | Petit Parterre | (Free admission)
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-92@francosmontreal.com
+DTSTART:20260612T210000Z
+DTEND:20260612T230000Z
+SUMMARY:Aleksi Campagne@Francos
+LOCATION:Pub Brasseur de Montréal — Corner of Ste-Catherine and Saint-Urbai
+ n
+DESCRIPTION:Location: Pub Brasseur de Montréal | Corner of Ste-Catherine an
+ d Saint-Urbain | (Free admission)
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-93@francosmontreal.com
+DTSTART:20260613T023000Z
+DTEND:20260613T043000Z
+SUMMARY:Robert Robert@Francos
+LOCATION:Pub Brasseur de Montréal — Corner of Ste-Catherine and Saint-Urbai
+ n
+DESCRIPTION:Location: Pub Brasseur de Montréal | Corner of Ste-Catherine an
+ d Saint-Urbain | (Free admission)
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-94@francosmontreal.com
+DTSTART:20260613T035900Z
+DTEND:20260613T055900Z
+SUMMARY:KidCrayola@Francos
+LOCATION:Le Studio TD — 305 Ste. Catherine St. West
+DESCRIPTION:Location: Le Studio TD | 305 Ste. Catherine St. West | (Free ad
+ mission)
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-95@francosmontreal.com
+DTSTART:20260613T204500Z
+DTEND:20260613T224500Z
+SUMMARY:Finissants ENC@Francos
+LOCATION:Pub Brasseur de Montréal — Corner of Ste-Catherine and Saint-Urbai
+ n
+DESCRIPTION:Location: Pub Brasseur de Montréal | Corner of Ste-Catherine an
+ d Saint-Urbain | (Free admission)
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-96@francosmontreal.com
+DTSTART:20260613T230000Z
+DTEND:20260614T010000Z
+SUMMARY:Marco Ema@Francos
+LOCATION:Pub Brasseur de Montréal — Corner of Ste-Catherine and Saint-Urbai
+ n
+DESCRIPTION:Location: Pub Brasseur de Montréal | Corner of Ste-Catherine an
+ d Saint-Urbain | (Free admission)
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-97@francosmontreal.com
+DTSTART:20260614T023000Z
+DTEND:20260614T043000Z
+SUMMARY:Jupiter & Okwess@Francos
+LOCATION:Pub Brasseur de Montréal — Corner of Ste-Catherine and Saint-Urbai
+ n
+DESCRIPTION:Location: Pub Brasseur de Montréal | Corner of Ste-Catherine an
+ d Saint-Urbain | (Free admission)
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-98@francosmontreal.com
+DTSTART:20260614T210000Z
+DTEND:20260614T230000Z
+SUMMARY:Malaka@Francos
+LOCATION:Pub Brasseur de Montréal — Corner of Ste-Catherine and Saint-Urbai
+ n
+DESCRIPTION:Location: Pub Brasseur de Montréal | Corner of Ste-Catherine an
+ d Saint-Urbain | (Free admission)
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-99@francosmontreal.com
+DTSTART:20260614T230000Z
+DTEND:20260615T010000Z
+SUMMARY:St Graal@Francos
+LOCATION:Pub Brasseur de Montréal — Corner of Ste-Catherine and Saint-Urbai
+ n
+DESCRIPTION:Location: Pub Brasseur de Montréal | Corner of Ste-Catherine an
+ d Saint-Urbain | (Free admission)
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-100@francosmontreal.com
+DTSTART:20260617T210000Z
+DTEND:20260617T230000Z
+SUMMARY:Irdens Exantus@Francos
+LOCATION:Pub Brasseur de Montréal — Corner of Ste-Catherine and Saint-Urbai
+ n
+DESCRIPTION:Location: Pub Brasseur de Montréal | Corner of Ste-Catherine an
+ d Saint-Urbain | (Free admission)
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-101@francosmontreal.com
+DTSTART:20260617T230000Z
+DTEND:20260618T010000Z
+SUMMARY:Myra@Francos
+LOCATION:Pub Brasseur de Montréal — Corner of Ste-Catherine and Saint-Urbai
+ n
+DESCRIPTION:Location: Pub Brasseur de Montréal | Corner of Ste-Catherine an
+ d Saint-Urbain | (Free admission)
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-102@francosmontreal.com
+DTSTART:20260618T210000Z
+DTEND:20260618T230000Z
+SUMMARY:Adam El Mouna & Erika Hagen@Francos
+LOCATION:Pub Brasseur de Montréal — Corner of Ste-Catherine and Saint-Urbai
+ n
+DESCRIPTION:Location: Pub Brasseur de Montréal | Corner of Ste-Catherine an
+ d Saint-Urbain | (Free admission)
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-103@francosmontreal.com
+DTSTART:20260619T023000Z
+DTEND:20260619T043000Z
+SUMMARY:P.L.L@Francos
+LOCATION:Pub Brasseur de Montréal — Corner of Ste-Catherine and Saint-Urbai
+ n
+DESCRIPTION:Location: Pub Brasseur de Montréal | Corner of Ste-Catherine an
+ d Saint-Urbain | (Free admission)
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-104@francosmontreal.com
+DTSTART:20260619T210000Z
+DTEND:20260619T230000Z
+SUMMARY:Thomé Young@Francos
+LOCATION:Pub Brasseur de Montréal — Corner of Ste-Catherine and Saint-Urbai
+ n
+DESCRIPTION:Location: Pub Brasseur de Montréal | Corner of Ste-Catherine an
+ d Saint-Urbain | (Free admission)
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-105@francosmontreal.com
+DTSTART:20260619T230000Z
+DTEND:20260620T010000Z
+SUMMARY:Kat Pereira@Francos
+LOCATION:Pub Brasseur de Montréal — Corner of Ste-Catherine and Saint-Urbai
+ n
+DESCRIPTION:Location: Pub Brasseur de Montréal | Corner of Ste-Catherine an
+ d Saint-Urbain | (Free admission)
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-106@francosmontreal.com
+DTSTART:20260620T023000Z
+DTEND:20260620T043000Z
+SUMMARY:Beat Sexü @Francos
+LOCATION:Pub Brasseur de Montréal — Corner of Ste-Catherine and Saint-Urbai
+ n
+DESCRIPTION:Location: Pub Brasseur de Montréal | Corner of Ste-Catherine an
+ d Saint-Urbain | (Free admission)
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-107@francosmontreal.com
+DTSTART:20260620T210000Z
+DTEND:20260620T230000Z
+SUMMARY:Soraï@Francos
+LOCATION:Pub Brasseur de Montréal — Corner of Ste-Catherine and Saint-Urbai
+ n
+DESCRIPTION:Location: Pub Brasseur de Montréal | Corner of Ste-Catherine an
+ d Saint-Urbain | (Free admission)
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-108@francosmontreal.com
+DTSTART:20260620T230000Z
+DTEND:20260621T010000Z
+SUMMARY:Alphonse Bisaillon@Francos
+LOCATION:Pub Brasseur de Montréal — Corner of Ste-Catherine and Saint-Urbai
+ n
+DESCRIPTION:Location: Pub Brasseur de Montréal | Corner of Ste-Catherine an
+ d Saint-Urbain | (Free admission)
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-109@francosmontreal.com
+DTSTART:20260621T023000Z
+DTEND:20260621T043000Z
+SUMMARY:Jérôme 50@Francos
+LOCATION:Pub Brasseur de Montréal — Corner of Ste-Catherine and Saint-Urbai
+ n
+DESCRIPTION:Location: Pub Brasseur de Montréal | Corner of Ste-Catherine an
+ d Saint-Urbain | (Free admission)
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-110@francosmontreal.com
+DTSTART:20260621T035900Z
+DTEND:20260621T055900Z
+SUMMARY:Grünt@Francos
+LOCATION:Le Studio TD — 305 Ste. Catherine St. West
+DESCRIPTION:Location: Le Studio TD | 305 Ste. Catherine St. West | (Free ad
+ mission)
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-111@francosmontreal.com
+DTSTART:20260615T210000Z
+DTEND:20260615T230000Z
+SUMMARY:Bingo musical @Francos
+LOCATION:Grande Bibliothèque — 475\, boulevard De Maisonneuve Est 
+DESCRIPTION:Location: Grande Bibliothèque | 475\, boulevard De Maisonneuve 
+ Est  | (Free admission)
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-112@francosmontreal.com
+DTSTART:20260620T020000Z
+DTEND:20260620T040000Z
+SUMMARY:Léonie Pernet & Romane Santarelli@Francos
+LOCATION:SAT — 1201 boul. Saint-Laurent
+DESCRIPTION:Location: SAT | 1201 boul. Saint-Laurent
+END:VEVENT
+BEGIN:VEVENT
+UID:francos2026-113@francosmontreal.com
+DTSTART:20260620T020000Z
+DTEND:20260620T040000Z
+SUMMARY:Roland Cristal@Francos
+LOCATION:Newspeak — 1403 Rue Sainte-Elisabeth
+DESCRIPTION:Location: Newspeak | 1403 Rue Sainte-Elisabeth
+END:VEVENT
+END:VCALENDAR

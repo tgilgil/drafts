@@ -513,6 +513,14 @@ async function ensureCovers(posts) {
   }
 }
 
+function copyPublic() {
+  const PUBLIC_DIR = path.join(__dirname, 'public');
+  if (!fs.existsSync(PUBLIC_DIR)) return;
+  for (const name of fs.readdirSync(PUBLIC_DIR)) {
+    fs.copyFileSync(path.join(PUBLIC_DIR, name), path.join(DIST_DIR, name));
+  }
+}
+
 async function build() {
   const posts = loadPosts().sort((a, b) => {
     if (a.date && b.date) return new Date(b.date) - new Date(a.date);
@@ -522,6 +530,7 @@ async function build() {
   await ensureCovers(posts);
 
   ensureDir(POSTS_DIST);
+  copyPublic();
 
   const indexHtml = renderIndex(posts);
   fs.writeFileSync(path.join(DIST_DIR, 'index.html'), indexHtml, 'utf8');
