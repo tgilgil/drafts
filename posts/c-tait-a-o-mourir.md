@@ -1,5 +1,5 @@
 ---
-title: C'était ça où mourir
+title: C'était ça ou mourir
 date: 2026-05-12
 summary: One-line hook for the review.
 cover: https://www.editionsboreal.qc.ca/media/vignettes/livres/220x0/c_etait_ca_ou_mourir_C1_WEB.jpg
